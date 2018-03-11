@@ -1,0 +1,54 @@
+/**
+ * Trading Card styles
+ */
+ 
+ #outer-box {
+    width: 500px;
+    border: 1px solid #dbdbdb;
+    padding: 15px 15px 15px 15px;
+    background-color: #71cdff;
+}
+
+#top-box {
+	background-color: #fff;
+	padding: 15px 15px 15px 15px;
+	margin: 0 0 15px 0;
+}
+
+ caption {
+    font-style: italic;
+ }
+
+ #information-box {
+    font-family: Tahoma,Verdana,Segoe,sans-serif; 
+    border: 1px solid #dbdbdb;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #fff;
+ }
+
+#image {
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+
+h1{
+    font-family: Tahoma,Verdana,Segoe,sans-serif; 
+    font-size: 25px;
+    font-weight: bold;
+	text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    padding: 0;
+}
